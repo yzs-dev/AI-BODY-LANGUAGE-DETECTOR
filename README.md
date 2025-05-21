@@ -1,6 +1,3 @@
-Here's a GitHub README for the project [AI BODY LANGUAGE DETECTOR](https://github.com/yzs-dev/AI-BODY-LANGUAGE-DETECTOR):
-
----
 
 # AI Body Language Detector 🤖🧠
 
